@@ -6,10 +6,6 @@ body{
     max-width: 100%;
     overflow-x: hidden;
 }
-.container {
-    width: 100%;
-  }
-
 h1{
     font-weight: bolder;
     text-decoration: underline;
@@ -288,6 +284,9 @@ h3{
     }
     .section3{
         padding-top: 60px;
+    }
+    #présentation{
+        font-size: 20px
     }
 
 } 
